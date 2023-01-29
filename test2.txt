@@ -7,3 +7,5 @@ This is second file to add the changes.
 This change is in new branch in the second branch.
 
 To check the stashing ability.
+
+To check the ssh authentication process.
