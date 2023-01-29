@@ -1,8 +1,10 @@
 this is for testing git commands.
 Hello World!!
 
-adding the changes in the file, to check the changes in the git history.
+to check the changes in the git history.
 
 1st commit.
 
-THis change is only in master branch.
+This change is only in master branch.
+
+To check the git diff command.
