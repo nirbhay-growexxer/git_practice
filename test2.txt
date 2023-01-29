@@ -2,6 +2,6 @@ This is again a test file.
 
 This is second file to add the changes.
 
-2nd commit.
+2nd commit. To added some changes.
 
 This change is in new branch in the second branch.
