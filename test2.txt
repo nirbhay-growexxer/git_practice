@@ -9,3 +9,5 @@ This change is in new branch in the second branch.
 To check the stashing ability.
 
 To check the ssh authentication process.
+
+To make the git in diverged state.
