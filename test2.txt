@@ -1,7 +1,7 @@
-This is again a test file, for the test2.txt.
+This is again a test file.
 
 This is second file to add the changes.
 
 2nd commit.
 
-This is just to change the file.
+This change is in new branch in the second branch.
